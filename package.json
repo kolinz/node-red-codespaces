@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node-red"
+  },
+  "dependencies": {
+    "node-red": "*",
+    "node-red-contrib-obniz": "*",
+    "node-red-contrib-mongodb-aleph": "*",
+    "node-red-dashboard": "*",
+    "node-red-node-watson": "*",
+    "node-red-contrib-simple-chatgpt": "*",
+    "node-red-contrib-play-sound": "*"
+  }
+}
