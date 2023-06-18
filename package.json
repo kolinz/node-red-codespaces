@@ -9,6 +9,10 @@
     "node-red-dashboard": "*",
     "node-red-node-watson": "*",
     "node-red-contrib-simple-chatgpt": "*",
-    "node-red-contrib-play-sound": "*"
+    "node-red-contrib-play-sound": "*",
+    "node-red-contrib-teachable-machine": "*",
+    "node-red-contrib-cloudantplus": "*",
+    "node-red-contrib-node-line-api": "*",
+    "node-red-contrib-google-sheets": "*"
   }
 }
