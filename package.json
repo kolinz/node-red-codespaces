@@ -13,6 +13,8 @@
     "node-red-contrib-teachable-machine": "*",
     "node-red-contrib-cloudantplus": "*",
     "node-red-contrib-node-line-api": "*",
-    "node-red-contrib-google-sheets": "*"
+    "node-red-contrib-google-sheets": "*",
+    "node-red-contrib-image-output": "*",
+    "node-red-node-base64": "*"
   }
 }
