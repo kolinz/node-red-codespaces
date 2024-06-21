@@ -5,16 +5,18 @@
   "dependencies": {
     "node-red": "*",
     "node-red-contrib-obniz": "*",
-    "node-red-contrib-mongodb-aleph": "*",
-    "node-red-dashboard": "*",
+    "node-red-contrib-telegrambot": "*",
     "node-red-node-watson": "*",
-    "node-red-contrib-simple-chatgpt": "*",
+    "node-red-contrib-dotnsf-watsonxai": "*",
+    "node-red-contrib-simple-chatgpt-instruct": "*",
+    "node-red-contrib-custom-chatgpt": "*",
     "node-red-contrib-play-sound": "*",
     "node-red-contrib-teachable-machine": "*",
     "node-red-contrib-cloudantplus": "*",
-    "node-red-contrib-node-line-api": "*",
     "node-red-contrib-google-sheets": "*",
     "node-red-contrib-image-output": "*",
-    "node-red-node-base64": "*"
+    "node-red-node-base64": "*",
+    "node-red-contrib-moment": "*",
+    "@flowfuse/node-red-dashboard": "*"
   }
 }
