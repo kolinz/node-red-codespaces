@@ -15,6 +15,7 @@
     "node-red-contrib-image-output": "*",
     "node-red-node-base64": "*",
     "node-red-contrib-moment": "*",
+    "node-red-contrib-web-babylonjs": "*",
     "@flowfuse/node-red-dashboard": "*"
   }
 }
