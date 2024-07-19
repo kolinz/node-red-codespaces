@@ -15,7 +15,6 @@
     "node-red-contrib-image-output": "*",
     "node-red-node-base64": "*",
     "node-red-contrib-moment": "*",
-    "bartbutenaers/node-red-contrib-ui-babylonjs-3d",
     "@flowfuse/node-red-dashboard": "*"
   }
 }
