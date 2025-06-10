@@ -15,6 +15,7 @@
     "node-red-contrib-image-output": "*",
     "node-red-node-base64": "*",
     "node-red-contrib-moment": "*",
-    "@flowfuse/node-red-dashboard": "*"
+    "@flowfuse/node-red-dashboard": "*",
+    "node-red-contrib-postgresql": "*"
   }
 }
